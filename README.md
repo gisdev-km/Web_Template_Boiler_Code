@@ -9,8 +9,16 @@
 
 ```
 
-## To run
+## To serve up via PHP
 
 ```
 	$ grunt
 ```
+
+### Default URL/Port
+** http://localhost:8081/**
+
+### Assumptions:
++ Uses index.html or index.php for main entry point
+
+
