@@ -16,7 +16,7 @@
 ```
 
 ### Default URL/Port
-**http://localhost:8081/**
+**Port:** http://localhost:8081/
 
 ### Assumptions:
 + Uses index.html or index.php for main entry point
