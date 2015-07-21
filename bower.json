@@ -1,0 +1,26 @@
+{
+  "name": "Web_Template_Boiler_Code",
+  "version": "0.0.1",
+  "authors": [
+    "Kyle Morgan <kyle.morgan@gmail.com>"
+  ],
+  "moduleType": [
+    "amd"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    ".",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "dgrid": "~0.4.0",
+    "dstore": "~1.1.0",
+    "dojo": "dojo/dojo#~1.10.4",
+    "dijit": "dojo/dijit#~1.10.4",
+    "dojox": "dojo/dojox#~1.10.4",
+    "util": "dojo/util#~1.10.4"
+  }
+}

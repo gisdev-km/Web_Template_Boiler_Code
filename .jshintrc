@@ -1,0 +1,29 @@
+{
+  
+  // JSHint Default Configuration File (as on JSHint website)
+  // See http://jshint.com/docs/ for more details
+
+    // Enforcing
+    "quotmark"      : true,    // Quotation mark consistency
+    "indent"        : 4,        // {int} Number of spaces to use for indentation
+    "strict"        : false,     // true: Requires all functions run in ES5 Strict Mode
+    "globalstrict"  : true,
+
+    // Environments
+    "browser"       : true,     // Web Browser (window, document, etc)
+    "dojo"          : true,    // Dojo Toolkit
+    "undef"         : false,     // true: Require all non-global variables to be declared (prevents global leaks)
+    "unused"        : false,     // Unused variables:
+                                //   true     : all variables, last function parameter
+                                //   "vars"   : all variables only
+                                //   "strict" : all variables, all function parameters
+    // Custom Globals
+    "globals"       : { // additional predefined global variables
+      "module"      : true,
+      "console"     : true,
+      "undef"       : false,
+      "unused"      : false,
+      "require"     : false,
+      "defined"     : false
+    }        
+}
